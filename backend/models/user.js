@@ -1,3 +1,8 @@
+//File: myportfolio-backend\backend\models\user.js
+// Name: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-02-27
+
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
